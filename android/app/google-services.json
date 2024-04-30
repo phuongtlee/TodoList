@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "811738583123",
+    "project_id": "test-68342",
+    "storage_bucket": "test-68342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811738583123:android:7d1e2f2c488c8f0de476a6",
+        "android_client_info": {
+          "package_name": "com.demotodos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiWaMrH7xgaFqH6VXmPNk5EyAQvL3h0Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
